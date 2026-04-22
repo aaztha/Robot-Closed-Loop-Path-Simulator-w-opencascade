@@ -1,6 +1,8 @@
 # Robot-Closed-Loop-Path-Simulator-w-opencascade
 Built a minimal closed-loop simulation using OpenCASCADE where a robot follows a path and adapts to feedback (noise), demonstrating CAD-driven motion and system interaction.
 
+User → Path → Simulator → Feedback → Update
+
 A minimal simulation of robot motion along a CAD-defined path using OpenCASCADE and Qt.
 
 Features:
