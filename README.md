@@ -11,4 +11,4 @@ Features:
 
 Goal:
 To explore closed-loop robotic systems combining geometry, motion, and feedback.
-Implementing my recent knowledge  of openCascade and 3D models.
+Implementing my recent knowledge of openCascade, 3D models and  QT framework.
